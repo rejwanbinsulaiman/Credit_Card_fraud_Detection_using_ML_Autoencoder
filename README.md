@@ -1,0 +1,2 @@
+# Credit_Card_fraud_Detection_using_ML_Autoencoder
+ CCFD . We will be using autoencoders for the fraud detection model. Using autoencoders, we train the database only to learn the representation of the non-fraudulent transactions.  The reason behind applying this method is to let the model learn the best representation of non-fraudulent cases so that it automatically distinguishes the other case from it.
